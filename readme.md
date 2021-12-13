@@ -69,12 +69,13 @@ All default training parameters can be found in `config.py`. For Regularized LPB
 ## Citation and Contact
 To cite this work, please use the following BibTex entry:
 ```
-@inproceedings{zhai2021boosted,
-  author = {Zhai, Runtian and Dan, Chen and Suggala, Arun Sai and Kolter, Zico and Ravikumar, Pradeep},
-  booktitle = {Advances in Neural Information Processing Systems},
-  title = {Boosted CVaR Classification},
-  volume = {34},
-  year = {2021}
+@inproceedings{
+zhai2021boosted,
+title={Boosted {CV}aR Classification},
+author={Runtian Zhai and Chen Dan and Arun Suggala and J Zico Kolter and Pradeep Kumar Ravikumar},
+booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+year={2021},
+url={https://openreview.net/forum?id=INsYqFjBWnF}
 }
 ```
 To contact us, please email to the following address: `Runtian Zhai <rzhai@cmu.edu>`
